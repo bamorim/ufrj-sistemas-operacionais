@@ -91,17 +91,17 @@ Ex: /Faculty/Prof.Brown/courses/cs101
 
 Origem: IBM/370
 
-|   OOO   |  OOO  |   OOO   |     |
+|   OOO   |  OOO  |   OOO   | OOO |
 |:-------:|:-----:|:-------:|:---:|
 | Windows | Linux | Solaris | ... |
-|           hypervisor            |
+|           hypervisor         ||||
 
 * Caso da IBM
 
 | OS360 | CMS | CMS | CMS |
 |:-----:|:---:|:---:|:---:|
 |          VM370          |
-|       Hardware 370      |
+|       Hardware 370   ||||
 
 6. Modelo Cliente-Servidor
 --------------------------
