@@ -46,5 +46,5 @@ Caso contrário: (Nota+P3)/2 >= 5 => Aprovado
 * __Entrega__: Até 02/12/2013
 
 ### Aulas
-* [Aula 1 - 19/08/2013](../blob/master/aula1.md)
-* [Aula 2 - 23/08/2013](../blob/master/aula2.md)
+* [Aula 1 - 19/08/2013](../blob/master/aulas/aula1.md)
+* [Aula 2 - 23/08/2013](../blob/master/aulas/aula2.md)
